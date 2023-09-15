@@ -23,8 +23,8 @@ class ShowProfile extends StatelessWidget {
                       kSizeBox2, Container(child: Column( 
                         crossAxisAlignment: CrossAxisAlignment.start, 
                         children: [ 
-                          Text('Sakshi', style: kTextStyle4), 
-                          Text('FLUTTER DEVELOPER', style: kTextStyle5),
+                          Text('Fadhel', style: kTextStyle4), 
+                          Text('210711183', style: kTextStyle5),
                         ],
                       ),
                       )
